@@ -16,9 +16,9 @@ Users should be able to:
 
 ### Links
 
-[- Solution URL:](https://github.com/Misztalo/summary-component)
+- Solution URL: [Solution](https://github.com/Misztalo/summary-component)
 
-[- Live Site URL:](https://misztalo.github.io/summary-component/)
+- Live Site URL: [Live](https://misztalo.github.io/summary-component/)
 
 ### Built with
 
