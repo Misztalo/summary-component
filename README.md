@@ -1,5 +1,10 @@
 # Frontend Mentor - Results summary component solution
 
+![Design preview for the # Frontend Mentor - Results summary component solution](./design/desktop-preview.jpg)
+
+
+# Frontend Mentor - Results summary component solution
+
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### The challenge
@@ -11,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Misztalo/summary-component]
-- Live Site URL: [https://misztalo.github.io/summary-component/]
+[- Solution URL:](https://github.com/Misztalo/summary-component)
+[- Live Site URL:](https://misztalo.github.io/summary-component/)
 
 ### Built with
 
@@ -24,5 +29,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [https://misztalo.github.io/summary-component/]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Misztalo]
+- Frontend Mentor - [Misztal](https://www.frontendmentor.io/profile/Misztalo)
